@@ -1,0 +1,9 @@
+cron:
+#- description: "off at night m-f"
+#  url: /8YkpGd2LQN3nBuWJfXRb/down
+#  schedule: every monday,tuesday,wednesday,thursday,friday 21:00
+#  timezone: "Asia/Hong_Kong"
+#- description: "on at night m-f"
+#  url: /8YkpGd2LQN3nBuWJfXRb/up
+#  schedule: every monday,tuesday,wednesday,thursday,friday 08:00
+#  timezone: "Asia/Hong_Kong"

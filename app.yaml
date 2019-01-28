@@ -1,0 +1,7 @@
+runtime: go111
+env_variables:
+  PROJECT: "yourproject"
+  LOCATION: "asia-south1-b"
+  CLUSTER: "your gke cluster"
+  SERVICE_ACCOUNT: "youraccount@yourproject.iam.gserviceaccount.com"
+  OAUTH_SCOPES: "https://www.googleapis.com/auth/cloud-platform,https://www.googleapis.com/auth/devstorage.read_write"
